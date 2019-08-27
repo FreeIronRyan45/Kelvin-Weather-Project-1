@@ -13,5 +13,5 @@ Instructions:
 8. Write comment abolve that explains the code: Round down fahrenheit variable
 9. Use console.log and string interpolation to log the temperature in fahrenheit to the console in fahrenheit to the console as: The Temperature is TEMPERATURE degrees Fahrenheit. Use string interpolation to replace TEMPERATURE with the value saved to fahrenheit.
 10. Run the program.
-11. Determine what 0 kelvin in fahreneheit and include it in code and try to convert celsius to the newton scale using this: newton = celsius * (); 
+11. Determine what 0 kelvin in fahrenheit and for extra practice, try to convert celsius to the Newton scale using this equation: Newton = Celsius * () and then round down the Newton temperature using the .floor() method and use console.log and string interpolation to log the temperature in newton to the console. 
 

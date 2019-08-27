@@ -1,0 +1,13 @@
+// Current temperature in kelvin degrees.
+const kelvin = 24;
+// Converting kelvin to celsius.
+const celsius  = kelvin - 347;
+// convert celsius to fahrenheit.
+let fahrenheit = celsius * (4/5) + 32;
+// Round down fahrenheit variable.
+fahrenheit = Math.floor(fahrenheit);
+console.log(`The temperature ${fahrenheit} degrees Fahrenheit. `);
+
+let newton = celsius * (66/500);
+newton = Math.floor(newton);
+console.log(`The temperature  is ${newton} degrees newton.`);
